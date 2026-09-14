@@ -1,4 +1,4 @@
-# Orbit Messenger
+# Rasool Messenger
 
 An iMessage-inspired modern Android messenger, built from scratch with privacy, security, and a premium user experience in mind.
 
